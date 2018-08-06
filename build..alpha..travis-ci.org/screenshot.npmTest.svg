@@ -1,9 +1,9 @@
-<svg height="4078" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="4078" fill="#555" width="720"></rect>
+<svg height="4222" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="4222" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
 
-<tspan x="10" y="42">[MODE_BUILD=npmTest] - 2018-08-06T05:01:45.576Z - npm-testing /home/travis/build/projectbko/node\</tspan>
+<tspan x="10" y="42">[MODE_BUILD=npmTest] - 2018-08-06T05:06:59.529Z - npm-testing /home/travis/build/projectbko/node\</tspan>
 <tspan x="10" y="58">-sandbox2</tspan>
 
 <tspan x="10" y="74"></tspan>
@@ -18,7 +18,7 @@
 <tspan x="10" y="154">npmTest - merged test-report from file /home/travis/build/projectbko/node-sandbox2/tmp/build/tes\</tspan>
 <tspan x="10" y="170">t-report.json</tspan>
 
-<tspan x="10" y="186">&gt; server listening on http-port 52254</tspan>
+<tspan x="10" y="186">&gt; server listening on http-port 48769</tspan>
 
 <tspan x="10" y="202">apidocCreate - readExample /home/travis/build/projectbko/node-sandbox2/package.json</tspan>
 
@@ -65,219 +65,219 @@
 <tspan x="10" y="538"></tspan>
 
 <tspan x="10" y="554">browserTest - created electron entry-page /home/travis/build/projectbko/node-sandbox2/tmp/electr\</tspan>
-<tspan x="10" y="570">on.1650d9cd2fc0.edccc60b8ba3e.html</tspan>
+<tspan x="10" y="570">on.1650da19d440.c10a778b85125.html</tspan>
 
 <tspan x="10" y="586"></tspan>
 
-<tspan x="10" y="602">(node:7056) ExperimentalWarning: The http2 module is an experimental API.</tspan>
+<tspan x="10" y="602">(node:9627) ExperimentalWarning: The http2 module is an experimental API.</tspan>
 
-<tspan x="10" y="618">(node:7056) [DEP0025] DeprecationWarning: sys is deprecated. Use util instead.</tspan>
+<tspan x="10" y="618">(node:9627) [DEP0025] DeprecationWarning: sys is deprecated. Use util instead.</tspan>
 
-<tspan x="10" y="634">(node:7056) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/splaytree' module \</tspan>
+<tspan x="10" y="634">(node:9627) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/splaytree' module \</tspan>
 <tspan x="10" y="650">is deprecated. Please install the necessary module locally.</tspan>
 
-<tspan x="10" y="666">(node:7056) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/codemap' module is\</tspan>
+<tspan x="10" y="666">(node:9627) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/codemap' module is\</tspan>
 <tspan x="10" y="682"> deprecated. Please install the necessary module locally.</tspan>
 
-<tspan x="10" y="698">(node:7056) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/consarray' module \</tspan>
+<tspan x="10" y="698">(node:9627) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/consarray' module \</tspan>
 <tspan x="10" y="714">is deprecated. Please install the necessary module locally.</tspan>
 
-<tspan x="10" y="730">(node:7056) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/csvparser' module \</tspan>
+<tspan x="10" y="730">(node:9627) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/csvparser' module \</tspan>
 <tspan x="10" y="746">is deprecated. Please install the necessary module locally.</tspan>
 
-<tspan x="10" y="762">(node:7056) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/profile' module is\</tspan>
+<tspan x="10" y="762">(node:9627) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/profile' module is\</tspan>
 <tspan x="10" y="778"> deprecated. Please install the necessary module locally.</tspan>
 
-<tspan x="10" y="794">(node:7056) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/profile_view' modu\</tspan>
+<tspan x="10" y="794">(node:9627) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/profile_view' modu\</tspan>
 <tspan x="10" y="810">le is deprecated. Please install the necessary module locally.</tspan>
 
-<tspan x="10" y="826">(node:7056) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/logreader' module \</tspan>
+<tspan x="10" y="826">(node:9627) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/logreader' module \</tspan>
 <tspan x="10" y="842">is deprecated. Please install the necessary module locally.</tspan>
 
-<tspan x="10" y="858">(node:7056) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/arguments' module \</tspan>
+<tspan x="10" y="858">(node:9627) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/arguments' module \</tspan>
 <tspan x="10" y="874">is deprecated. Please install the necessary module locally.</tspan>
 
-<tspan x="10" y="890">(node:7056) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/tickprocessor' mod\</tspan>
+<tspan x="10" y="890">(node:9627) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/tickprocessor' mod\</tspan>
 <tspan x="10" y="906">ule is deprecated. Please install the necessary module locally.</tspan>
 
-<tspan x="10" y="922">(node:7056) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/SourceMap' module \</tspan>
+<tspan x="10" y="922">(node:9627) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/SourceMap' module \</tspan>
 <tspan x="10" y="938">is deprecated. Please install the necessary module locally.</tspan>
 
-<tspan x="10" y="954">(node:7056) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/tickprocessor-driv\</tspan>
+<tspan x="10" y="954">(node:9627) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'v8/tools/tickprocessor-driv\</tspan>
 <tspan x="10" y="970">er' module is deprecated. Please install the necessary module locally.</tspan>
 
-<tspan x="10" y="986">(node:7056) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'node-inspect/lib/_inspect' \</tspan>
+<tspan x="10" y="986">(node:9627) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'node-inspect/lib/_inspect' \</tspan>
 <tspan x="10" y="1002">module is deprecated. Please install the necessary module locally.</tspan>
 
-<tspan x="10" y="1018">(node:7056) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'node-inspect/lib/internal/i\</tspan>
+<tspan x="10" y="1018">(node:9627) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'node-inspect/lib/internal/i\</tspan>
 <tspan x="10" y="1034">nspect_client' module is deprecated. Please install the necessary module locally.</tspan>
 
-<tspan x="10" y="1050">(node:7056) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'node-inspect/lib/internal/i\</tspan>
+<tspan x="10" y="1050">(node:9627) [DEP0084] DeprecationWarning: Requiring Node.js-bundled 'node-inspect/lib/internal/i\</tspan>
 <tspan x="10" y="1066">nspect_repl' module is deprecated. Please install the necessary module locally.</tspan>
 
 <tspan x="10" y="1082">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 
-<tspan x="10" y="1098">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="1098">&gt; Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 
-<tspan x="10" y="1114">[7124:0806/050146.816517:WARNING:audio_manager.cc(295)] Multiple instances of AudioManager detec\</tspan>
-<tspan x="10" y="1130">ted</tspan>
+<tspan x="10" y="1114">server listening on http-port 54585</tspan>
 
-<tspan x="10" y="1146">[7124:0806/050146.820875:WARNING:audio_manager.cc(254)] Multiple instances of AudioManager detec\</tspan>
-<tspan x="10" y="1162">ted</tspan>
+<tspan x="10" y="1130">[9694:0806/050700.538547:WARNING:audio_manager.cc(295)] Multiple instances of AudioManager detec\</tspan>
+<tspan x="10" y="1146">ted</tspan>
 
-<tspan x="10" y="1178">&gt; [7154:0806/050146.935978:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple\</tspan>
-<tspan x="10" y="1194"> threads in process gpu-process. </tspan>
+<tspan x="10" y="1162">[9694:0806/050700.538610:WARNING:audio_manager.cc(254)] Multiple instances of AudioManager detec\</tspan>
+<tspan x="10" y="1178">ted</tspan>
 
-<tspan x="10" y="1210">server listening on http-port 47518</tspan>
+<tspan x="10" y="1194">[9727:0806/050700.565688:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple t\</tspan>
+<tspan x="10" y="1210">hreads in process gpu-process. </tspan>
 
-<tspan x="10" y="1226">[7124:0806/050146.953880:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="1226">[9694:0806/050700.611861:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
 <tspan x="10" y="1242">l.</tspan>
 
-<tspan x="10" y="1258">[7124:0806/050146.954803:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="1258">[9694:0806/050700.612690:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
 <tspan x="10" y="1274">l.</tspan>
 
-<tspan x="10" y="1290">[7124:0806/050146.955556:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="1290">[9694:0806/050700.613303:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
 <tspan x="10" y="1306">l.</tspan>
 
-<tspan x="10" y="1322">[7124:0806/050146.959970:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="1322">[9694:0806/050700.614207:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
 <tspan x="10" y="1338">l.</tspan>
 
-<tspan x="10" y="1354">[7124:0806/050146.960421:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="1354">[9694:0806/050700.614647:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
 <tspan x="10" y="1370">l.</tspan>
 
 <tspan x="10" y="1386"></tspan>
 
-<tspan x="10" y="1402">browserTest - opened http://127.0.0.1:52254?modeTest=1&amp;timeoutDefault=30000</tspan>
+<tspan x="10" y="1402">browserTest - opened http://127.0.0.1:48769?modeTest=1&amp;timeoutDefault=30000</tspan>
 
 <tspan x="10" y="1418"></tspan>
 
-<tspan x="10" y="1434">[7124:0806/050147.544225:INFO:CONSOLE(266)] "[browser test-case 1 of 8 passed] - testCase_buildA\</tspan>
-<tspan x="10" y="1450">pidoc_default", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd\</tspan>
-<tspan x="10" y="1466">2fc0.edccc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="1434">[9694:0806/050701.214327:INFO:CONSOLE(266)] "[browser test-case 1 of 8 passed] - testCase_buildA\</tspan>
+<tspan x="10" y="1450">pidoc_default", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19\</tspan>
+<tspan x="10" y="1466">d440.c10a778b85125.html (266)</tspan>
 
-<tspan x="10" y="1482">[7124:0806/050147.554248:INFO:CONSOLE(266)] "[browser test-case 2 of 8 passed] - testCase_buildA\</tspan>
-<tspan x="10" y="1498">pp_default", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc\</tspan>
-<tspan x="10" y="1514">0.edccc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="1482">[9694:0806/050701.223726:INFO:CONSOLE(266)] "[browser test-case 2 of 8 passed] - testCase_buildA\</tspan>
+<tspan x="10" y="1498">pp_default", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d44\</tspan>
+<tspan x="10" y="1514">0.c10a778b85125.html (266)</tspan>
 
-<tspan x="10" y="1530">[7124:0806/050147.558321:INFO:CONSOLE(266)] "[browser test-case 3 of 8 passed] - testCase_buildC\</tspan>
+<tspan x="10" y="1530">[9694:0806/050701.225019:INFO:CONSOLE(266)] "[browser test-case 3 of 8 passed] - testCase_buildC\</tspan>
 <tspan x="10" y="1546">ustomOrg_default", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d\</tspan>
-<tspan x="10" y="1562">9cd2fc0.edccc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="1562">a19d440.c10a778b85125.html (266)</tspan>
 
-<tspan x="10" y="1578">[7124:0806/050147.560105:INFO:CONSOLE(266)] "[browser test-case 4 of 8 passed] - testCase_buildL\</tspan>
-<tspan x="10" y="1594">ib_default", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc\</tspan>
-<tspan x="10" y="1610">0.edccc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="1578">[9694:0806/050701.225570:INFO:CONSOLE(266)] "[browser test-case 4 of 8 passed] - testCase_buildL\</tspan>
+<tspan x="10" y="1594">ib_default", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d44\</tspan>
+<tspan x="10" y="1610">0.c10a778b85125.html (266)</tspan>
 
-<tspan x="10" y="1626">[7124:0806/050147.561882:INFO:CONSOLE(266)] "[browser test-case 5 of 8 passed] - testCase_buildR\</tspan>
-<tspan x="10" y="1642">eadme_default", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd\</tspan>
-<tspan x="10" y="1658">2fc0.edccc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="1626">[9694:0806/050701.226816:INFO:CONSOLE(266)] "[browser test-case 5 of 8 passed] - testCase_buildR\</tspan>
+<tspan x="10" y="1642">eadme_default", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19\</tspan>
+<tspan x="10" y="1658">d440.c10a778b85125.html (266)</tspan>
 
-<tspan x="10" y="1674">[7124:0806/050147.563664:INFO:CONSOLE(266)] "[browser test-case 6 of 8 passed] - testCase_buildT\</tspan>
-<tspan x="10" y="1690">est_default", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2f\</tspan>
-<tspan x="10" y="1706">c0.edccc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="1674">[9694:0806/050701.227776:INFO:CONSOLE(266)] "[browser test-case 6 of 8 passed] - testCase_buildT\</tspan>
+<tspan x="10" y="1690">est_default", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d4\</tspan>
+<tspan x="10" y="1706">40.c10a778b85125.html (266)</tspan>
 
-<tspan x="10" y="1722">[7124:0806/050147.565349:INFO:CONSOLE(266)] "[browser test-case 7 of 8 passed] - testCase_nop_de\</tspan>
-<tspan x="10" y="1738">fault", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edc\</tspan>
-<tspan x="10" y="1754">cc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="1722">[9694:0806/050701.228952:INFO:CONSOLE(266)] "[browser test-case 7 of 8 passed] - testCase_nop_de\</tspan>
+<tspan x="10" y="1738">fault", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10\</tspan>
+<tspan x="10" y="1754">a778b85125.html (266)</tspan>
 
-<tspan x="10" y="1770">[7124:0806/050147.570406:INFO:CONSOLE(266)] "domStyleValidateUnmatched 0. 1 textarea {", source:\</tspan>
-<tspan x="10" y="1786"> file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8ba3e.html\</tspan>
+<tspan x="10" y="1770">[9694:0806/050701.233021:INFO:CONSOLE(266)] "domStyleValidateUnmatched 0. 1 textarea {", source:\</tspan>
+<tspan x="10" y="1786"> file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b85125.html\</tspan>
 <tspan x="10" y="1802"> (266)</tspan>
 
-<tspan x="10" y="1818">[7124:0806/050147.571963:INFO:CONSOLE(266)] "domStyleValidateUnmatched 1. 1 textarea {", source:\</tspan>
-<tspan x="10" y="1834"> file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8ba3e.html\</tspan>
+<tspan x="10" y="1818">[9694:0806/050701.233764:INFO:CONSOLE(266)] "domStyleValidateUnmatched 1. 1 textarea {", source:\</tspan>
+<tspan x="10" y="1834"> file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b85125.html\</tspan>
 <tspan x="10" y="1850"> (266)</tspan>
 
-<tspan x="10" y="1866">[7124:0806/050147.573426:INFO:CONSOLE(266)] "domStyleValidateUnmatched 2. 1 textarea {", source:\</tspan>
-<tspan x="10" y="1882"> file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8ba3e.html\</tspan>
+<tspan x="10" y="1866">[9694:0806/050701.234189:INFO:CONSOLE(266)] "domStyleValidateUnmatched 2. 1 textarea {", source:\</tspan>
+<tspan x="10" y="1882"> file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b85125.html\</tspan>
 <tspan x="10" y="1898"> (266)</tspan>
 
-<tspan x="10" y="1914">[7124:0806/050147.575221:INFO:CONSOLE(266)] "domStyleValidateUnmatched 3. 1 textarea {", source:\</tspan>
-<tspan x="10" y="1930"> file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8ba3e.html\</tspan>
+<tspan x="10" y="1914">[9694:0806/050701.235905:INFO:CONSOLE(266)] "domStyleValidateUnmatched 3. 1 textarea {", source:\</tspan>
+<tspan x="10" y="1930"> file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b85125.html\</tspan>
 <tspan x="10" y="1946"> (266)</tspan>
 
-<tspan x="10" y="1962">[7124:0806/050147.576835:INFO:CONSOLE(266)] "domStyleValidateUnmatched 4. 1 pre,", source: file:\</tspan>
-<tspan x="10" y="1978">///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="1962">[9694:0806/050701.236715:INFO:CONSOLE(266)] "domStyleValidateUnmatched 4. 1 pre,", source: file:\</tspan>
+<tspan x="10" y="1978">///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b85125.html (266)</tspan>
 
-<tspan x="10" y="1994">[7124:0806/050147.578575:INFO:CONSOLE(266)] "domStyleValidateUnmatched 5. 1 pre,", source: file:\</tspan>
-<tspan x="10" y="2010">///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="1994">[9694:0806/050701.237568:INFO:CONSOLE(266)] "domStyleValidateUnmatched 5. 1 pre,", source: file:\</tspan>
+<tspan x="10" y="2010">///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b85125.html (266)</tspan>
 
-<tspan x="10" y="2026">[7124:0806/050147.580162:INFO:CONSOLE(266)] "domStyleValidateUnmatched 6. 1 pre {", source: file\</tspan>
-<tspan x="10" y="2042">:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8ba3e.html (266\</tspan>
+<tspan x="10" y="2026">[9694:0806/050701.238503:INFO:CONSOLE(266)] "domStyleValidateUnmatched 6. 1 pre {", source: file\</tspan>
+<tspan x="10" y="2042">:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b85125.html (266\</tspan>
 <tspan x="10" y="2058">)</tspan>
 
-<tspan x="10" y="2074">[7124:0806/050147.581829:INFO:CONSOLE(266)] "domStyleValidateUnmatched 7. 1 pre {", source: file\</tspan>
-<tspan x="10" y="2090">:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8ba3e.html (266\</tspan>
+<tspan x="10" y="2074">[9694:0806/050701.239308:INFO:CONSOLE(266)] "domStyleValidateUnmatched 7. 1 pre {", source: file\</tspan>
+<tspan x="10" y="2090">:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b85125.html (266\</tspan>
 <tspan x="10" y="2106">)</tspan>
 
-<tspan x="10" y="2122">[7124:0806/050147.583352:INFO:CONSOLE(266)] "domStyleValidateUnmatched 8. 1 body {", source: fil\</tspan>
-<tspan x="10" y="2138">e:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8ba3e.html (26\</tspan>
+<tspan x="10" y="2122">[9694:0806/050701.240498:INFO:CONSOLE(266)] "domStyleValidateUnmatched 8. 1 body {", source: fil\</tspan>
+<tspan x="10" y="2138">e:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b85125.html (26\</tspan>
 <tspan x="10" y="2154">6)</tspan>
 
-<tspan x="10" y="2170">[7124:0806/050147.585005:INFO:CONSOLE(266)] "domStyleValidateUnmatched 9. 1 body {", source: fil\</tspan>
-<tspan x="10" y="2186">e:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8ba3e.html (26\</tspan>
+<tspan x="10" y="2170">[9694:0806/050701.241340:INFO:CONSOLE(266)] "domStyleValidateUnmatched 9. 1 body {", source: fil\</tspan>
+<tspan x="10" y="2186">e:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b85125.html (26\</tspan>
 <tspan x="10" y="2202">6)</tspan>
 
-<tspan x="10" y="2218">[7124:0806/050147.586706:INFO:CONSOLE(266)] "domStyleValidateUnmatched 10. 1 body &gt; textarea[rea\</tspan>
-<tspan x="10" y="2234">donly] {", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.\</tspan>
-<tspan x="10" y="2250">edccc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="2218">[9694:0806/050701.245370:INFO:CONSOLE(266)] "domStyleValidateUnmatched 10. 1 body &gt; textarea[rea\</tspan>
+<tspan x="10" y="2234">donly] {", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.\</tspan>
+<tspan x="10" y="2250">c10a778b85125.html (266)</tspan>
 
-<tspan x="10" y="2266">[7124:0806/050147.591153:INFO:CONSOLE(266)] "domStyleValidateUnmatched 11. 1 body &gt; textarea[rea\</tspan>
-<tspan x="10" y="2282">donly] {", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.\</tspan>
-<tspan x="10" y="2298">edccc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="2266">[9694:0806/050701.247700:INFO:CONSOLE(266)] "domStyleValidateUnmatched 11. 1 body &gt; textarea[rea\</tspan>
+<tspan x="10" y="2282">donly] {", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.\</tspan>
+<tspan x="10" y="2298">c10a778b85125.html (266)</tspan>
 
-<tspan x="10" y="2314">[7124:0806/050147.592613:INFO:CONSOLE(266)] "domStyleValidateUnmatched 12. 1 body &gt; textarea,", \</tspan>
-<tspan x="10" y="2330">source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8ba\</tspan>
-<tspan x="10" y="2346">3e.html (266)</tspan>
+<tspan x="10" y="2314">[9694:0806/050701.249102:INFO:CONSOLE(266)] "domStyleValidateUnmatched 12. 1 body &gt; textarea,", \</tspan>
+<tspan x="10" y="2330">source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b851\</tspan>
+<tspan x="10" y="2346">25.html (266)</tspan>
 
-<tspan x="10" y="2362">[7124:0806/050147.593700:INFO:CONSOLE(266)] "domStyleValidateUnmatched 13. 1 body &gt; textarea,", \</tspan>
-<tspan x="10" y="2378">source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8ba\</tspan>
-<tspan x="10" y="2394">3e.html (266)</tspan>
+<tspan x="10" y="2362">[9694:0806/050701.249406:INFO:CONSOLE(266)] "domStyleValidateUnmatched 13. 1 body &gt; textarea,", \</tspan>
+<tspan x="10" y="2378">source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b851\</tspan>
+<tspan x="10" y="2394">25.html (266)</tspan>
 
-<tspan x="10" y="2410">[7124:0806/050147.594837:INFO:CONSOLE(266)] "domStyleValidateUnmatched 14. 1 body &gt; textarea {",\</tspan>
-<tspan x="10" y="2426"> source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8b\</tspan>
-<tspan x="10" y="2442">a3e.html (266)</tspan>
+<tspan x="10" y="2410">[9694:0806/050701.251373:INFO:CONSOLE(266)] "domStyleValidateUnmatched 14. 1 body &gt; textarea {",\</tspan>
+<tspan x="10" y="2426"> source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b85\</tspan>
+<tspan x="10" y="2442">125.html (266)</tspan>
 
-<tspan x="10" y="2458">[7124:0806/050147.596214:INFO:CONSOLE(266)] "domStyleValidateUnmatched 15. 1 body &gt; textarea {",\</tspan>
-<tspan x="10" y="2474"> source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8b\</tspan>
-<tspan x="10" y="2490">a3e.html (266)</tspan>
+<tspan x="10" y="2458">[9694:0806/050701.252313:INFO:CONSOLE(266)] "domStyleValidateUnmatched 15. 1 body &gt; textarea {",\</tspan>
+<tspan x="10" y="2474"> source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b85\</tspan>
+<tspan x="10" y="2490">125.html (266)</tspan>
 
-<tspan x="10" y="2506">[7124:0806/050147.598118:INFO:CONSOLE(266)] "domStyleValidateUnmatched 16. 1 .utility2FooterDiv \</tspan>
-<tspan x="10" y="2522">{", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60\</tspan>
-<tspan x="10" y="2538">b8ba3e.html (266)</tspan>
+<tspan x="10" y="2506">[9694:0806/050701.254161:INFO:CONSOLE(266)] "domStyleValidateUnmatched 16. 1 .utility2FooterDiv \</tspan>
+<tspan x="10" y="2522">{", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778\</tspan>
+<tspan x="10" y="2538">b85125.html (266)</tspan>
 
-<tspan x="10" y="2554">[7124:0806/050147.600015:INFO:CONSOLE(266)] "domStyleValidateUnmatched 17. 1 .utility2FooterDiv \</tspan>
-<tspan x="10" y="2570">{", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60\</tspan>
-<tspan x="10" y="2586">b8ba3e.html (266)</tspan>
+<tspan x="10" y="2554">[9694:0806/050701.255968:INFO:CONSOLE(266)] "domStyleValidateUnmatched 17. 1 .utility2FooterDiv \</tspan>
+<tspan x="10" y="2570">{", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778\</tspan>
+<tspan x="10" y="2586">b85125.html (266)</tspan>
 
-<tspan x="10" y="2602">[7124:0806/050147.601960:INFO:CONSOLE(266)] "domStyleValidateUnmatched 18. 1 .uiAnimateSlide {",\</tspan>
-<tspan x="10" y="2618"> source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8b\</tspan>
-<tspan x="10" y="2634">a3e.html (266)</tspan>
+<tspan x="10" y="2602">[9694:0806/050701.257674:INFO:CONSOLE(266)] "domStyleValidateUnmatched 18. 1 .uiAnimateSlide {",\</tspan>
+<tspan x="10" y="2618"> source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b85\</tspan>
+<tspan x="10" y="2634">125.html (266)</tspan>
 
-<tspan x="10" y="2650">[7124:0806/050147.603980:INFO:CONSOLE(266)] "domStyleValidateUnmatched 19. 1 .uiAnimateSlide {",\</tspan>
-<tspan x="10" y="2666"> source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b8b\</tspan>
-<tspan x="10" y="2682">a3e.html (266)</tspan>
+<tspan x="10" y="2650">[9694:0806/050701.259105:INFO:CONSOLE(266)] "domStyleValidateUnmatched 19. 1 .uiAnimateSlide {",\</tspan>
+<tspan x="10" y="2666"> source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b85\</tspan>
+<tspan x="10" y="2682">125.html (266)</tspan>
 
-<tspan x="10" y="2698">[7124:0806/050147.605959:INFO:CONSOLE(266)] "domStyleValidateUnmatched 20. 1 .testReportDiv pre \</tspan>
-<tspan x="10" y="2714">{", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60\</tspan>
-<tspan x="10" y="2730">b8ba3e.html (266)</tspan>
+<tspan x="10" y="2698">[9694:0806/050701.260749:INFO:CONSOLE(266)] "domStyleValidateUnmatched 20. 1 .testReportDiv pre \</tspan>
+<tspan x="10" y="2714">{", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778\</tspan>
+<tspan x="10" y="2730">b85125.html (266)</tspan>
 
-<tspan x="10" y="2746">[7124:0806/050147.608155:INFO:CONSOLE(266)] "domStyleValidateUnmatched 21. 1 .testReportDiv .sum\</tspan>
-<tspan x="10" y="2762">mary {", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.ed\</tspan>
-<tspan x="10" y="2778">ccc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="2746">[9694:0806/050701.262082:INFO:CONSOLE(266)] "domStyleValidateUnmatched 21. 1 .testReportDiv .sum\</tspan>
+<tspan x="10" y="2762">mary {", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c1\</tspan>
+<tspan x="10" y="2778">0a778b85125.html (266)</tspan>
 
-<tspan x="10" y="2794">[7124:0806/050147.610184:INFO:CONSOLE(266)] "domStyleValidateUnmatched 22. 1 .testReportDiv .foo\</tspan>
-<tspan x="10" y="2810">ter {", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edc\</tspan>
-<tspan x="10" y="2826">cc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="2794">[9694:0806/050701.264311:INFO:CONSOLE(266)] "domStyleValidateUnmatched 22. 1 .testReportDiv .foo\</tspan>
+<tspan x="10" y="2810">ter {", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10\</tspan>
+<tspan x="10" y="2826">a778b85125.html (266)</tspan>
 
-<tspan x="10" y="2842">[7124:0806/050147.613912:INFO:CONSOLE(266)] "domStyleValidateUnmatched 23. 1 .testReportDiv .dis\</tspan>
-<tspan x="10" y="2858">playNone {", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc\</tspan>
-<tspan x="10" y="2874">0.edccc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="2842">[9694:0806/050701.268618:INFO:CONSOLE(266)] "domStyleValidateUnmatched 23. 1 .testReportDiv .dis\</tspan>
+<tspan x="10" y="2858">playNone {", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d44\</tspan>
+<tspan x="10" y="2874">0.c10a778b85125.html (266)</tspan>
 
-<tspan x="10" y="2890">[7124:0806/050147.615239:INFO:CONSOLE(266)] "[browser test-case 8 of 8 passed] - testCase_webpag\</tspan>
-<tspan x="10" y="2906">e_default", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0\</tspan>
-<tspan x="10" y="2922">.edccc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="2890">[9694:0806/050701.272040:INFO:CONSOLE(266)] "[browser test-case 8 of 8 passed] - testCase_webpag\</tspan>
+<tspan x="10" y="2906">e_default", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440\</tspan>
+<tspan x="10" y="2922">.c10a778b85125.html (266)</tspan>
 
-<tspan x="10" y="2938">[7124:0806/050148.621764:INFO:CONSOLE(266)] "----------|-----------|-----------|-----------|----\</tspan>
+<tspan x="10" y="2938">[9694:0806/050702.271753:INFO:CONSOLE(266)] "----------|-----------|-----------|-----------|----\</tspan>
 <tspan x="10" y="2954">-------|</tspan>
 
 <tspan x="10" y="2970">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
@@ -290,12 +290,12 @@
 
 <tspan x="10" y="3034">----------|-----------|-----------|-----------|-----------|</tspan>
 
-<tspan x="10" y="3050">", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.edccc60b\</tspan>
-<tspan x="10" y="3066">8ba3e.html (266)</tspan>
+<tspan x="10" y="3050">", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c10a778b\</tspan>
+<tspan x="10" y="3066">85125.html (266)</tspan>
 
-<tspan x="10" y="3082">[7124:0806/050148.631916:INFO:CONSOLE(266)] "created coverage file /tmp/build/coverage.html/inde\</tspan>
-<tspan x="10" y="3098">x.html", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650d9cd2fc0.ed\</tspan>
-<tspan x="10" y="3114">ccc60b8ba3e.html (266)</tspan>
+<tspan x="10" y="3082">[9694:0806/050702.281647:INFO:CONSOLE(266)] "created coverage file /tmp/build/coverage.html/inde\</tspan>
+<tspan x="10" y="3098">x.html", source: file:///home/travis/build/projectbko/node-sandbox2/tmp/electron.1650da19d440.c1\</tspan>
+<tspan x="10" y="3114">0a778b85125.html (266)</tspan>
 
 <tspan x="10" y="3130">[node test-case 7 of 8 passed] - testCase_buildApp_default</tspan>
 
@@ -311,7 +311,7 @@
 
 <tspan x="10" y="3242"></tspan>
 
-<tspan x="10" y="3258">browserTest - exit-code 0 - http://127.0.0.1:52254?modeTest=1&amp;timeoutDefault=30000</tspan>
+<tspan x="10" y="3258">browserTest - exit-code 0 - http://127.0.0.1:48769?modeTest=1&amp;timeoutDefault=30000</tspan>
 
 <tspan x="10" y="3274"></tspan>
 
@@ -367,7 +367,7 @@
 
 <tspan x="10" y="3722">| test-report - buildApidoc - node - linux v10.8.0 - 2018-08-06T04:59:32.866Z</tspan>
 
-<tspan x="10" y="3738">|  149382 ms            0 failed        8 passed      |</tspan>
+<tspan x="10" y="3738">|  463039 ms            0 failed        8 passed      |</tspan>
 
 <tspan x="10" y="3754">-------------------------------------------------------</tspan>
 
@@ -377,35 +377,50 @@
 
 <tspan x="10" y="3802">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="3818">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
-<tspan x="10" y="3834">L, like Gecko) Chrome/58.0.3029.110 Electron/1.7.15 Safari/537.36 - 2018-08-06T04:59:15.213Z</tspan>
+<tspan x="10" y="3818">| test-report - deployGithubTest - browser - /node-sandbox2/build..alpha..travis-ci.org/app/ - M\</tspan>
+<tspan x="10" y="3834">ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Elect\</tspan>
+<tspan x="10" y="3850">ron/1.7.15 Safari/537.36 - 2018-08-06T05:03:34.098Z</tspan>
 
-<tspan x="10" y="3850">|      73 ms            0 failed        8 passed      |</tspan>
+<tspan x="10" y="3866">|      50 ms            0 failed        8 passed      |</tspan>
 
-<tspan x="10" y="3866">-------------------------------------------------------</tspan>
+<tspan x="10" y="3882">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="3882">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
-<tspan x="10" y="3898">L, like Gecko) Chrome/58.0.3029.110 Electron/1.7.15 Safari/537.36 - 2018-08-06T05:01:47.487Z</tspan>
+<tspan x="10" y="3898">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="3914">L, like Gecko) Chrome/58.0.3029.110 Electron/1.7.15 Safari/537.36 - 2018-08-06T04:59:15.213Z</tspan>
 
-<tspan x="10" y="3914">|      81 ms            0 failed        8 passed      |</tspan>
+<tspan x="10" y="3930">|      73 ms            0 failed        8 passed      |</tspan>
 
-<tspan x="10" y="3930">-------------------------------------------------------</tspan>
+<tspan x="10" y="3946">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="3946"></tspan>
+<tspan x="10" y="3962">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="3978">L, like Gecko) Chrome/58.0.3029.110 Electron/1.7.15 Safari/537.36 - 2018-08-06T05:01:47.487Z</tspan>
 
-<tspan x="10" y="3962">created test-report file /home/travis/build/projectbko/node-sandbox2/tmp/build/test-report.html</tspan>
+<tspan x="10" y="3994">|      81 ms            0 failed        8 passed      |</tspan>
 
-<tspan x="10" y="3978"></tspan>
+<tspan x="10" y="4010">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="3994"></tspan>
+<tspan x="10" y="4026">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="4042">L, like Gecko) Chrome/58.0.3029.110 Electron/1.7.15 Safari/537.36 - 2018-08-06T05:07:01.155Z</tspan>
 
-<tspan x="10" y="4010">npmTest - 0 failed tests</tspan>
+<tspan x="10" y="4058">|      58 ms            0 failed        8 passed      |</tspan>
 
-<tspan x="10" y="4026"></tspan>
+<tspan x="10" y="4074">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="4042"></tspan>
+<tspan x="10" y="4090"></tspan>
 
-<tspan x="10" y="4058">[MODE_BUILD=npmTest] - 2018-08-06T05:02:03.668Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="4106">created test-report file /home/travis/build/projectbko/node-sandbox2/tmp/build/test-report.html</tspan>
+
+<tspan x="10" y="4122"></tspan>
+
+<tspan x="10" y="4138"></tspan>
+
+<tspan x="10" y="4154">npmTest - 0 failed tests</tspan>
+
+<tspan x="10" y="4170"></tspan>
+
+<tspan x="10" y="4186"></tspan>
+
+<tspan x="10" y="4202">[MODE_BUILD=npmTest] - 2018-08-06T05:07:17.320Z - EXIT_CODE - 0</tspan>
 
 </text>
 </svg>

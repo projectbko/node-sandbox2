@@ -1,9 +1,9 @@
-<svg height="622" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="622" fill="#555" width="720"></rect>
+<svg height="766" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="766" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
 
-<tspan x="10" y="42">[MODE_BUILD=buildApp] - 2018-08-06T05:02:26.661Z - npm-testing /home/travis/build/projectbko/nod\</tspan>
+<tspan x="10" y="42">[MODE_BUILD=buildApp] - 2018-08-06T05:07:40.360Z - npm-testing /home/travis/build/projectbko/nod\</tspan>
 <tspan x="10" y="58">e-sandbox2</tspan>
 
 <tspan x="10" y="74"></tspan>
@@ -13,9 +13,9 @@
 <tspan x="10" y="106">buildApp - merged test-report from file /home/travis/build/projectbko/node-sandbox2/tmp/build/te\</tspan>
 <tspan x="10" y="122">st-report.json</tspan>
 
-<tspan x="10" y="138">&gt; server listening on http-port 53620</tspan>
+<tspan x="10" y="138">&gt; server listening on http-port 61509</tspan>
 
-<tspan x="10" y="154">&gt; server listening on http-port 33033</tspan>
+<tspan x="10" y="154">&gt; server listening on http-port 55662</tspan>
 
 <tspan x="10" y="170">[node test-case 1 of 1 passed] - testCase_buildApp_default</tspan>
 
@@ -30,7 +30,7 @@
 
 <tspan x="10" y="266">| test-report - buildApidoc - node - linux v10.8.0 - 2018-08-06T04:59:32.866Z</tspan>
 
-<tspan x="10" y="282">|  179510 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="282">|  493209 ms            0 failed        1 passed      |</tspan>
 
 <tspan x="10" y="298">-------------------------------------------------------</tspan>
 
@@ -40,35 +40,50 @@
 
 <tspan x="10" y="346">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="362">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
-<tspan x="10" y="378">L, like Gecko) Chrome/58.0.3029.110 Electron/1.7.15 Safari/537.36 - 2018-08-06T04:59:15.213Z</tspan>
+<tspan x="10" y="362">| test-report - deployGithubTest - browser - /node-sandbox2/build..alpha..travis-ci.org/app/ - M\</tspan>
+<tspan x="10" y="378">ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Elect\</tspan>
+<tspan x="10" y="394">ron/1.7.15 Safari/537.36 - 2018-08-06T05:03:34.098Z</tspan>
 
-<tspan x="10" y="394">|      73 ms            0 failed        8 passed      |</tspan>
+<tspan x="10" y="410">|      50 ms            0 failed        8 passed      |</tspan>
 
-<tspan x="10" y="410">-------------------------------------------------------</tspan>
+<tspan x="10" y="426">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="426">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
-<tspan x="10" y="442">L, like Gecko) Chrome/58.0.3029.110 Electron/1.7.15 Safari/537.36 - 2018-08-06T05:01:47.487Z</tspan>
+<tspan x="10" y="442">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="458">L, like Gecko) Chrome/58.0.3029.110 Electron/1.7.15 Safari/537.36 - 2018-08-06T04:59:15.213Z</tspan>
 
-<tspan x="10" y="458">|      81 ms            0 failed        8 passed      |</tspan>
+<tspan x="10" y="474">|      73 ms            0 failed        8 passed      |</tspan>
 
-<tspan x="10" y="474">-------------------------------------------------------</tspan>
+<tspan x="10" y="490">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="490"></tspan>
+<tspan x="10" y="506">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="522">L, like Gecko) Chrome/58.0.3029.110 Electron/1.7.15 Safari/537.36 - 2018-08-06T05:01:47.487Z</tspan>
 
-<tspan x="10" y="506">created test-report file /home/travis/build/projectbko/node-sandbox2/tmp/build/test-report.html</tspan>
+<tspan x="10" y="538">|      81 ms            0 failed        8 passed      |</tspan>
 
-<tspan x="10" y="522"></tspan>
+<tspan x="10" y="554">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="538"></tspan>
+<tspan x="10" y="570">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="586">L, like Gecko) Chrome/58.0.3029.110 Electron/1.7.15 Safari/537.36 - 2018-08-06T05:07:01.155Z</tspan>
 
-<tspan x="10" y="554">buildApp - 0 failed tests</tspan>
+<tspan x="10" y="602">|      58 ms            0 failed        8 passed      |</tspan>
 
-<tspan x="10" y="570"></tspan>
+<tspan x="10" y="618">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="586"></tspan>
+<tspan x="10" y="634"></tspan>
 
-<tspan x="10" y="602">[MODE_BUILD=buildApp] - 2018-08-06T05:02:33.773Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="650">created test-report file /home/travis/build/projectbko/node-sandbox2/tmp/build/test-report.html</tspan>
+
+<tspan x="10" y="666"></tspan>
+
+<tspan x="10" y="682"></tspan>
+
+<tspan x="10" y="698">buildApp - 0 failed tests</tspan>
+
+<tspan x="10" y="714"></tspan>
+
+<tspan x="10" y="730"></tspan>
+
+<tspan x="10" y="746">[MODE_BUILD=buildApp] - 2018-08-06T05:07:47.496Z - EXIT_CODE - 0</tspan>
 
 </text>
 </svg>
