@@ -33450,7 +33450,7 @@ local.stateInit({
             "npm_package_homepage": "https://github.com/projectbko/node-sandbox2",
             "npm_package_name": "sandbox2",
             "npm_package_nameLib": "sandbox2",
-            "npm_package_version": "0.0.1"
+            "npm_package_version": "2018.8.6"
         }
     }
 });
